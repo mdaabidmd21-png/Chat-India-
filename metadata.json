@@ -1,0 +1,7 @@
+{
+  "name": "ChatGPT AI",
+  "description": "Smart AI Chat Assistant powered by Gemini with conversation history, voice synthesis, code highlighting, and prompt templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
